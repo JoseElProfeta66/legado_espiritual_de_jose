@@ -55,3 +55,4 @@ guia_path.write_text(guia_contenido, encoding="utf-8")
 guia_path.name
 Resultado
 'guia_para_leer_este_legado.md'  [guia_para_leer_este_legado.md](https://github.com/user-attachments/files/20952416/guia_para_leer_este_legado.md)
+![No hay más religión que la Verdad_2](https://github.com/user-attachments/assets/43942dcb-26cf-46db-b080-dd11eca707bf)
